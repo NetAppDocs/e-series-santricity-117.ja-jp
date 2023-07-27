@@ -10,13 +10,13 @@ settings:
   versions:
   - name: SANtricity ソフトウェア
     url: "/e-series-santricity"
+    version-number: '11.8'
+  - name: SANtricity ソフトウェア
+    url: "/e-series-santricity-117"
     version-number: '11.7'
   - name: SANtricity ソフトウェア
     url: "/e-series-santricity-116"
     version-number: '11.6'
-  - name: SANtricity ソフトウェア
-    url: "/e-series-santricity-115"
-    version-number: '11.5'
   langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
 sidebar:
   entries:
