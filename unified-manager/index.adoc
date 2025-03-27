@@ -4,7 +4,7 @@ sidebar: sidebar
 permalink: unified-manager/index.html 
 summary: SANtricity ソフトウェアのドキュメントでは、ストレージアレイのインストール、セットアップ、およびメンテナンスについて説明しています。 
 ---
-= Unified Manager 5.3での複数アレイの管理
+= SANtricity Unified Managerを使用した複数のアレイの管理5.3
 :hardbreaks:
 :allow-uri-read: 
 :linkattrs: 

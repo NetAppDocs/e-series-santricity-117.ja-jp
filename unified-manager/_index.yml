@@ -3,7 +3,7 @@ indexpage:
   tiles:
   - title: セットアップ
     links:
-    - title: Unified Managerインターフェイスの概要
+    - title: SANtricity Unified Managerインターフェイスの概要
       url: "../um-admin/overview-interface-unified.html"
     - title: 管理パスワードを設定
       url: "../um-admin/administrator-password-protection-unified.html"

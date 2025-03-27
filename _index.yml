@@ -1,12 +1,16 @@
 ---
 indexpage:
-  lead: SANtricity ソフトウェアを使用すると、データ分析、ビデオ監視、バックアップとリカバリなどの負荷の高いアプリケーション向けに、EシリーズハイブリッドフラッシュおよびEFシリーズオールフラッシュアレイのパフォーマンスと利用率を最大限に高めることができます。
+  title: SANtricityソフトウェア11.7ドキュメント
+  summary: SANtricity システムマネージャとUnified Manager
+  keywords: santricity, all-flash arrays, heavy workload applications, video surveillance,
+    data analytics
+  lead: SANtricityソフトウェア11.7を使用すると、データ分析、ビデオ監視、バックアップとリカバリなどの高ワークロードアプリケーション向けに、EシリーズのハイブリッドフラッシュおよびEFシリーズのオールフラッシュアレイのパフォーマンスと利用率を最大限に高めることができます。
   tiles:
   - title: はじめに
     links:
-    - title: System Managerインターフェイス
+    - title: SANtricity System Managerインターフェイス
       url: /sm-interface/overview-interface-sam.html"
-    - title: Unified Managerインターフェイス
+    - title: SANtricity Unified Managerインターフェイス
       url: "/um-admin/overview-interface-unified.html"
     - title: SANtricity ソフトウェアのデータシート
       url: https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf
