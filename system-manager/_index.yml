@@ -1,5 +1,10 @@
 ---
 indexpage:
+  title: SANtricity System Manager 11.7による単一アレイの管理
+  summary: SANtricity ソフトウェアのドキュメントでは、ストレージアレイのインストール、セットアップ、およびメンテナンスについて説明しています。
+  keywords: e-series, santricity, 117, software, alerts, system manager, install,
+    maintain, setup
+  lead: SANtricity ソフトウェアのドキュメントでは、ストレージアレイのインストール、セットアップ、およびメンテナンスについて説明しています。
   tiles:
   - title: アレイをセットアップします
     links:

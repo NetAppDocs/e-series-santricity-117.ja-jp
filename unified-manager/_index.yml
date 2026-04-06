@@ -1,5 +1,10 @@
 ---
 indexpage:
+  title: SANtricity Unified Managerを使用した複数のアレイの管理5.3
+  summary: SANtricity ソフトウェアのドキュメントでは、ストレージアレイのインストール、セットアップ、およびメンテナンスについて説明しています。
+  keywords: e-series, santricity, 117, unified, manager, protection, administration,
+    admin, storage, array, manage
+  lead: SANtricity ソフトウェアのドキュメントでは、ストレージアレイのインストール、セットアップ、およびメンテナンスについて説明しています。
   tiles:
   - title: セットアップ
     links:
