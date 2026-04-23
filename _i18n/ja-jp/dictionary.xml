@@ -195,7 +195,6 @@
   <block id="cede765df61358635d71c56c97dfc628" category="paragraph">Microsoft Internet Explorer（MSIE）</block>
   <block id="6512bd43d9caa6e02c990b0a82652dca" category="paragraph">11</block>
   <block id="24bfb1beabc66d9a6a219a39706480f0" category="paragraph">Web Services Proxyをインストールしてブラウザから使用できるようにしておく必要があります。</block>
-  <block id="0ce99b430e0880d9c5b01d46d038d4dd" category="summary">SANtricity Unified Manager 5.</block>
   <block id="8f2804311a0084d47f6c63f97e6d6ced" category="summary">SANtricity Unified Managerでストレージアレイを表示したりアクセスしたりするときに使用するパスワードを更新できます。</block>
   <block id="2aebbeed1009439a37c2d8cc2d3c3b8c" category="doc">ストレージアレイのパスワードを変更する</block>
   <block id="3e06700262909cb379674ee849478971" category="list-text">Storage Adminの権限を含むユーザプロファイルでログインする必要があります。</block>
@@ -575,7 +574,6 @@
   <block id="0977cf4a58da9cc581a6745cfcdc48b5" category="paragraph">このタスクは、選択したミラー整合性グループにミラーペアが含まれている場合や、同期が実行中でない場合に実行できます。</block>
   <block id="1cc0a8d9300c269376cbe461f6b4bd12" category="list-text">メニューをクリックします。More [同期されていないデータ量の表示]</block>
   <block id="09b06cd0cdc29a9d4e00776a6acd426b" category="paragraph">同期されていないデータが存在する場合は、テーブルの値に反映されます。データ量の列には、同期されていないデータの量がMiB単位で表示されます。</block>
-  <block id="e35d3866f0babedb61a0f1ba9102cafd" category="doc">SANtricity システムマネージャ 11.7</block>
   <block id="aaefb742d61584ee44ef3f9214fce358" category="summary">次のワークフローを使用して同期ミラーリングを設定します。</block>
   <block id="2ddee1683c1acac08c2053d991bc7740" category="doc">ボリュームを同期的にミラーリングするためのワークフロー</block>
   <block id="58c920040b6457f13946634f75abb07b" category="list-text">データ転送元としてローカルストレージアレイを選択します。</block>
@@ -5662,7 +5660,6 @@ iSCSI接続を使用するシリーズ・ストレージ・システムリモー
   <block id="329b059dca9192ebf68525b6d3e3be44" category="inline-link-macro">キャッシュの設定とパフォーマンス</block>
   <block id="9f6081850e27326c653ce13711fd1f40" category="list-text"><block ref="9f6081850e27326c653ce13711fd1f40" category="inline-link-macro-rx"></block></block>
   <block id="590d98531a06e067582f8f395c25ea9d" category="inline-link-macro">自動ロードバランシング</block>
-  <block id="3d92225d2ee8c33ffe2c15361da54d2f" category="list-text"><block ref="3d92225d2ee8c33ffe2c15361da54d2f" category="inline-link-macro-rx"></block></block>
   <block id="b07d4a5fc9bdc2d9e09fffa5409bbab4" category="inline-link-macro">アドオン機能</block>
   <block id="d9c3b504b15a55277f52a60d4aa86148" category="list-text"><block ref="d9c3b504b15a55277f52a60d4aa86148" category="inline-link-macro-rx"></block></block>
   <block id="919e659946b3b7994ecf9004d9cea4f8" category="inline-link-macro">ドライブセキュリティ</block>
@@ -8764,4 +8761,5 @@ iSCSI接続を使用するシリーズ・ストレージ・システムリモー
   <block id="3089984c7abf64387bdc035943beae57" category="sidebar">SANtricity System Managerのセットアップ</block>
   <block id="61ed698df3699989d8d782fe430d2755" category="sidebar">SANtricity Unified Managerのセットアップ</block>
   <block id="aaf551c2d815af2da13ad25c18d2670e" category="sidebar">SANtricity System Managerの起動</block>
+  <block id="bc7dec44af17b73eb800d426c3a75c9f" category="list-text"><block ref="bc7dec44af17b73eb800d426c3a75c9f" category="inline-link-macro-rx"></block></block>
 </blocks>
